@@ -1,6 +1,8 @@
 # WDs-and-IOWDs-of-polar-subcodes
 To facilitate the replication of our results, we have provided a compressed package containing the WDs $\{ A_{N}^{\left( i \right)}\left( d \right) \}$ and IOWDs $\{ A_{N}^{\left( i \right)}\left( w,d \right) \}$ of the polar subcode.
 
+(unzip password: TCOM_PolarSubcode_2023)
+
 The package contains two folders:  "WDs"  and  "IOWDs".
 
 1. WDs:
